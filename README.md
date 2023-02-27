@@ -20,3 +20,4 @@ I am eager to continue to grow and learn and very serious about expanding my ski
 
 - 🔭 I’m currently working on learning and applying JavaScript, React and Node.js
 - 🌱 I’m currently learning React
+-  👀 I'm looking forward to learning TypeScript, WebGl and Python

@@ -18,6 +18,7 @@ Familiar with the basics of Object Oriented Programming, Asyncronous functions, 
 I am also familiar with the basics of Python.
 I am eager to continue to grow and learn and very serious about expanding my skillset next my focus will be on TypeScript and Python, but I am open to all possibilities.
 
-- 🔭 I’m currently working on learning and applying JavaScript, React and Node.js
-- 🌱 I’m currently learning React
--  👀 I'm looking forward to learning TypeScript, WebGL and Python
+- 🔭 Working on learning and applying JavaScript, React and Node.js
+- 🍯 Life is sweet when we keep learning 
+- 🌱 I’m currently studying React
+-  👀 I'm looking forward to explore TypeScript, WebGL and Python

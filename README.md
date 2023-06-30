@@ -2,22 +2,21 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-I'm a full-stack developer...
+I'm a developer currently training to become a full-stack developer.
 
-I've recently started my journey learning to code in JavaScript. I'm enrolled in a university-certified, full-time, full-stack web development bootcamp where I have been learning:
+I've recently embarked on my journey to learn JavaScript and have just completed a university-certified full-stack web development bootcamp with a grade of 100%. During the bootcamp, I gained knowledge in the following technologies:
 
 - JavaScript
+- React
 - HTML
 - CSS
 - Node.js
-- React
-- OOP
 
+I have a basic understanding of Python and I'm eager to continue growing and expanding my skillset. Currently, I'm focusing on mastering React.js and Node.js. In the future, I plan to learn TypeScript, Java, and explore possibilities with WebGL.
 
-I am also familiar with the basics of Python.
-I am eager to continue to grow and learn and very serious about expanding my skillset, next my focus will be on TypeScript and Node.js, but I am open to all possibilities.
+- 🔭 Working on learning and applying JavaScript, React, and Node.js.
+- 🍯 Life is sweet when we keep learning.
+- 🌱 Currently studying React + Node.js.
+- 👀 Excited to explore TypeScript, Python, Java, and WebGL.
 
-- 🔭 Working on learning and applying JavaScript, React, and Node.js
-- 🍯 Life is sweet when we keep learning 
-- 🌱 I’m currently studying React + Node.js
--  👀 I'm looking forward to exploring TypeScript, Python, Java, and WebGL
+Feel free to reach out and connect with me!

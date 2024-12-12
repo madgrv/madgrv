@@ -3,30 +3,28 @@
 
 ## 🚀 About Me
 
+I'm a passionate and creative Frontend Engineer with a unique background in music production, audio engineering and visual arts. My journey in web development is driven by an inquisitive approach to problem-solving and a commitment to crafting exceptional user experiences.
 
-I'm a passionate and dedicated developer on a mission to create exceptional web experiences. With a good foundation in JavaScript, React, HTML, CSS, and an understanding of UX and UI design.
+Recently, I've been honing my skills in TypeScript, React, and modern frontend technologies while working on SaaS web applications at GoBubble AI Tech Ltd. This role has allowed me to dive deep into mono repository structures, implement accessibility improvements, and lead initiatives in error handling and email system development.
 
-Recently, I embarked on my journey to learn JavaScript and successfully completed a university-certified full-stack web development bootcamp with a grade of 100%. This intensive program provided me with valuable hands-on experience and honed my skills in building web applications.
+My transition into tech was kickstarted by completing a university-certified full-stack web development bootcamp with a perfect grade of 100%. This achievement, coupled with being recognised as a Top 10 Finalist in the National Coding Challenge by TargetJobs UK, underscores my dedication to excellence in coding.
 
-During this journey, I had the honor of being recognized as a Top 10 Finalist in the National Coding Challenge by TargetJobs UK. This achievement highlights my problem-solving abilities, collaborative mindset, and determination to excel in competitive coding environments.
+I thrive in dynamic environments where innovation is at the forefront. My experience spans from translating Figma designs into functional UI components to championing accessibility improvements and refactoring legacy code. I'm versed in React.js, TypeScript, and styled-components,and always seeking to expand my expertise.
 
-Driven by curiosity and a thirst for knowledge, I continuously seek to expand my skillset and stay up to date with the latest trends in the industry. With a focus on React.js and Node.js, I'm always looking for new challenges to enhance my expertise.
+Continuous learning is at the core of my ethos. I'm currently enrolled in advanced React and CSS courses to further refine my skills and stay ahead of industry trends.
 
-I believe that life is a continuous learning process, and I'm excited to embrace new technologies and explore areas such as TypeScript, Python, Java, and even the fascinating world of WebGL.
+I'm excited about collaborating on challenging projects that push the boundaries of web development. Let's connect and create impactful digital experiences together!
 
-Let's connect and collaborate on exciting projects that will leave a lasting impact! Feel free to reach out and join me on this exhilarating coding journey. 
-
-
-Tech-stack:
-- JavaScript
+Tech stack:
+- TypeScript
 - React
-- HTML
-- CSS
-- Node.js
+- JavaScript
+- HTML/CSS
+- Styled Components
 
 ________________________________________________________________________
 
-- 🌱 Currently studying React + Node.js.
-- 👀 Excited to explore TypeScript, Python, Java, and WebGL.
+- 🌱 Currently deepening my knowledge in React and modern CSS techniques as well as React Testing Library, Jest and RTK Query.
+- 👀 Keen to explore more about accessibility in web development and emerging frontend technologies.
 
 ________________________________________________________________________
